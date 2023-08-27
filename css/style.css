@@ -1,0 +1,46 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+.container {
+  width: 80%;
+  height: auto;
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Alkatra&family=Anton&family=Edu+NSW+ACT+Foundation&family=Josefin+Sans:wght@100&family=Titillium+Web:wght@200&display=swap"); */
+
+/* * {
+  font-family: Georgia, "Times New Roman", Times, serif;
+} */
+
+.text-blue {
+  color: blue;
+}
+
+.text-red {
+  color: red;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+#me {
+  background-color: cornflowerblue;
+  /* font-family: "Alkatra", cursive; */
+}
+
+.more {
+  /* font-family: Georgia, "Times New Roman", Times, serif; */
+}
+
+.ars {
+  /* text-shadow: 5px 5px 3px black;
+  text-indent: 15px; */
+  /* text-align-last:center ; */
+  /* line-height: 1px; */
+  /* letter-spacing: 10px; */
+  /* word-spacing: 10px; */
+  /* white-space: nowrap; */
+}
